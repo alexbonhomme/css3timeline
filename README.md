@@ -1,4 +1,4 @@
 css3timeline
 ============
 
-Full CSS3 Timeline
+Full CSS3 & Responsive design timeline.
